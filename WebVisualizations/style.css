@@ -16,3 +16,6 @@
         div.hey{padding:30px; margin-right:1px;bordeR:none}
         div.viz{padding-top:30px;vertical-align:top;bordeR:none;}
         div.row{background-color:white; margin:10px; bordeR:none;}
+        th{text-align:left;}
+        th,td{padding:10px;}
+        table{text-align:left;}
