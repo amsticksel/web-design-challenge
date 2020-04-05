@@ -12,7 +12,7 @@
         div.col{border:none; margin:3px;  text-align:center;}
         div.col-active{border:2px solid steelblue; margin:3px;  text-align:center;}
         div.container{margin-top:80px; vertical-align: top; text-align:left;}
-        div.info{padding:30px 60px 60px 60px;, margin-bottom: border:none;}
+        div.info{padding:30px 60px 60px 60px; margin-bottom:none; border:none;}
         div.hey{padding:30px; margin-right:1px;bordeR:none}
         div.viz{padding-top:30px;vertical-align:top;bordeR:none;}
         div.row{background-color:white; margin:10px; bordeR:none;}
