@@ -1,4 +1,4 @@
-        nav{background:#F0F0F0; border-bottom:1px solid lightgray;}
+        nav{background:aliceblue; border-bottom:1px solid lightgray;}
         h1{font-size:24px; color:steelblue; font-weight:bold; font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
         a.navbar-brand,a.navbar-brand:hover,a.navbar-brand:active,a.navbar-brand:visited{height:100%;background:steelblue; color:#FFFFFF; font-weight:bold; padding:10px 10px 10px 10px;}
         a:hover{color:darkcyan; text-decoration:none;}
